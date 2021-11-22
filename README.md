@@ -9,4 +9,4 @@ I do not own Optifine or find the src and I certainly don't own MCP, so please g
 
 # Contact
 
-If there are still bugs that I did not fix feel free to dm on my new Discord account, because my old one got hacked. Opposite#6550 and I don't give coding tutorials either, so don't ask me on how to setup an Event System or Gui System there are tutorials for that and you should know how to do it yourself.
+If there are still bugs that I did not fix feel free to dm on my new Discord account, because my old one got hacked. ReverseTheGreat#6550 and I don't give coding tutorials either, so don't ask me on how to setup an Event System or Gui System there are tutorials for that and you should know how to do it yourself.
